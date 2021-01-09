@@ -1,0 +1,414 @@
+*{
+	font-family:sans-serif, verdana;
+	box-sizing: border-box;
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#f3f3f3;
+}
+
+.category-lest{
+	width:18%;
+	padding: 5px;
+
+}
+	.category-lest a{
+		display: block;
+		margin-bottom:1px;
+		padding:3px 10px;
+		text-decoration: none;
+		color:#555;
+	}
+		.category-lest a:hover{
+		background-color: #4CAF50;
+		color: #fff;
+	}
+
+div.search-container{
+	height:30px;
+	margin-top:10px;
+}
+form.w3-right input, form.w3-right button {
+	float: left;
+	height:30px;
+	color:#555;
+}
+	form.w3-right button {
+		border:0;
+	}
+		form.w3-right input{
+			border:1px solid #ccc;
+			padding:0 5px;
+			width:170px;
+		}
+
+div.food_container{
+	width: 82%;
+	height:auto;
+	margin-top:5px;
+}
+	.image img{
+		width:100%;
+		height: 170px;
+
+	}
+		.food_name{
+			margin-top:8px;
+			margin-bottom:5px;
+		}
+		.food_button button{
+			margin-top:5px;
+			border-radius: 2px;
+			width: 70%;
+		}
+.container-images img{
+	width:100%;
+	height:300px;
+}
+	.container-images p{
+		background-color:#4caf502b;
+		position: absolute;
+		left:18px;
+		right:18px;
+		bottom:10px;
+		padding: 10px;
+	}
+		.imagessss img{
+			width:100%;
+			height:400px;
+		}
+		.imagessss{
+			height:400px;
+			padding:0;
+			border:1px solid #111;
+		}
+
+.cccccccc{
+	position: absolute;
+	top:40%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+}
+
+		.cccccccc h3{
+			color:#fff;
+			background-color: rgb(0,0,0,0.3);
+			padding:20px;
+
+		}
+		.cccccccc button{
+			border:0;
+			padding:10px 40px;
+
+		}
+
+.ggggggg button{
+	border:1px solid #ccc;
+	background-color: #f3f3f3;
+	border-radius:2px;
+	width: 100%;
+	height: 50px;
+	text-align: left;
+}
+.ggggggg button:hover{
+	background-color: #f3f3f3;
+}
+	.hhhhhh {
+		overflow: hidden;
+		overflow-y:auto;
+	}
+
+.content-panel{
+	background-color: #f3f3f3;
+	max-height: 0;
+	transition: max-height 0.2s ease-out;
+	overflow: hidden;
+	border:0;
+	margin-bottom: 5px;
+}
+.content-panels{
+	border:1px solid #ccc;
+	margin-bottom: 5px;
+}
+
+	.content-panel h3, .content-panels h3{
+		padding-top:20px;
+	}
+		.content-panel h2, .content-panels h2{
+			font-style: italic;
+		}
+		.content-panel strong, .content-panels strong{
+			color:#888;
+			font-style: italic;
+		}
+		.content-panel p, .content-panels p{
+			color:#888;
+		}
+		.formal_reservation form{
+			width:50%;
+			margin: auto;
+			padding:0 20px;
+		}
+.formal_reservation form input.input ,.formal_reservation form textarea, .formal_reservation form select{
+	display: block;
+	margin-right:10px;
+	width:100%;
+	padding:5px 10px;
+	border:1px solid #ccc;
+	margin-bottom:5px;
+	color:#111;
+}
+	.formal_reservation form label{
+		color:#777;
+		font-weight: normal;
+		text-align: left;
+	}
+
+	.formal_reservation form button{
+		width:30%;
+		padding:5px 10px;
+	}
+
+
+#food_list input[type=checkbox]{
+	margin-right:5px;
+}
+
+	td img {
+		height:60px;
+		width:60px;
+	}
+.qwwwwwwwwwwwww{
+	border:0;
+	background-color:#fff;
+}
+	.qwwwwwwwwwwwww form{
+		width:90%;
+		margin:0 auto;
+		padding:1px;
+	}
+.qwwwwwwwwwwwww form input, .qwwwwwwwwwwwww form select {
+	padding:5px 10px;
+	display: block;
+	margin-bottom: 15px;
+	width:100%;
+	border:1px solid #ccc;
+	color:#333;
+	font-size:15px;
+	height:40px;
+}
+	.qwwwwwwwwwwwww form label {
+		color:#333;
+		font-weight: normal;
+		font-size:14px;
+		text-align: left;
+	}
+#iddddd{
+	display: none;
+	width:150px;
+	position: absolute;
+	text-align:center;
+	box-shadow:1px 4px 5px #999;
+	border-radius:0 0 2px 2px;
+	padding-bottom:5px;
+	z-index:1;
+}
+#account i{
+	font-size:13px;
+	margin-left:10px;
+}
+#iddddd a{
+	display:block;
+	text-decoration:none;
+	padding:5px 10px;
+	color:#777;
+}
+	#iddddd a:hover{
+		background-color: #f3f3f3;
+	}
+form label {
+		color:#777;
+		font-weight: normal;
+		font-size:14px;
+	}
+
+.classclass select {
+	display: block;
+	width:200px;
+	padding:5px 10px;
+	margin-bottom: 10px;
+	border:1px solid #ccc;
+	color:#333;
+	font-size:15px;
+	height:35px;
+}
+	.selecr-content{
+		width:50%;
+	}
+		.label-tran{
+			display:block;
+			margin-bottom:5px;
+		}
+			.label-tran input {
+				border:1px solid #ccc;
+				padding:8px 16px;
+			}
+.containersssss{
+	background-color:#fff;
+}
+
+	.sasasaa input, .sasasaa select.selectdd{
+		display:block;
+		width:300px;
+		border:1px solid #ccc;
+	}
+		.sasasaa label{
+			color:#555;
+			font-weight:normal;
+		}
+			 button.sdsds{
+				width: 10%;
+				padding:5px 10px;
+				border:0;
+			}
+
+	.classclass .selecttime_hour,.sasasa{
+		float: left;
+		margin-right:5px;
+	}
+	.classclass .selecttime_hour {
+		padding:3px;
+		width:50px;
+		border:1px solid #ccc;
+		height:30px;
+	}
+		.datepick{
+		width:150px;
+		border:1px solid #ccc;
+		height:30px;
+		}
+
+		.dgdfdgf{
+			height:31px;
+			width:180px;
+			margin-left:50px;
+		}
+
+.left_panel_acc a.a{
+	display: block;
+	padding:3px 10px;
+	text-decoration: none;
+	margin-bottom: 1px;
+	font-weight: bold;
+}
+	.left_panel_acc .sub_acc a{
+		display: block;
+		margin-left:10px;
+		padding:3px 10px;
+		margin-bottom: 1px;
+		text-decoration: none;
+	}
+			.left_panel_acc .sub_acc a:hover, .left_panel_acc a.a:hover{
+				background-color: #fcfcfc;
+			}
+
+		.left_panel_acc .sub_acc{
+			margin-bottom:5px;
+			margin-top:1px;
+		}
+
+
+.show_status select{
+	color: #555;
+	width:100px;
+	border:1px solid #aaa;
+}
+.show_status select, .show_status button{
+	padding:3px;
+}
+	.show_status button{
+		border:0;
+		padding:3px 10px;
+		background-color: #ccc;
+		color: #555;
+		border-radius: 1px;
+	}
+		.show_status{
+			margin:10px;
+			margin-bottom:15px;
+		}
+
+.order_content table tr{
+	border:1px solid #ccc;
+}
+.order_content table tr td{
+	padding:10px;
+}
+.order_content table tr a{
+	text-decoration: none;
+	border-radius: 1px;
+}
+	.stats_inline a{
+		display: inline-block;
+		padding: 3px 10px;
+		text-decoration: underline;
+		color:#555;
+		background-color: #fff;
+
+	}
+		.stats_inline{
+			margin-bottom: 10px;
+		}
+
+			.stats_inline a:hover{
+				color:blue;
+				text-decoration-color: blue;
+			}
+.btn-action-cart{
+	width: 45px;
+	height: 45px;
+	border:0;
+	background-color: #fff;
+	color: #555;
+}
+	.btn-action-cart:hover{
+		background-color: #ccc;
+		color: #111;
+	}
+
+a{
+	text-decoration: none;
+}
+	.hover_tr:hover{
+		box-shadow:1px 1px 5px #ccc;
+	}
+		.hover_tr{
+			border:1px solid #ccc;
+		}
+
+.accounts ul {
+	list-style: none;
+}
+.accounts ul li button {
+	width:100%;
+	border:0;
+	padding:5px 15px;
+	background-color:#fff;
+	color:#111;
+}
+.accounts ul li button i{
+	font-size:13px;
+	padding-left:20px;
+}
+.accounts ul li ul li button {
+	background-color: #fff;
+	color:#333;
+}
+.accounts ul li ul {
+	border:1PX solid #fff;
+}
+.accounts ul li ul li button:hover{
+	background-color:#f3f3f3;
+	color:#111;
+}

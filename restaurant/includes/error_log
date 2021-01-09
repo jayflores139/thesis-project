@@ -1,0 +1,4 @@
+[12-Feb-2019 18:40:34 Asia/Manila] PHP Fatal error:  Call to undefined function random_bytes() in /home/tugkaranuser/public_html/includes/forgot_password.inc.php on line 13
+[12-Feb-2019 19:43:00 Asia/Manila] PHP Fatal error:  Call to undefined function random_bytes() in /home/tugkaranuser/public_html/includes/forgot_password.inc.php on line 13
+[12-Feb-2019 19:51:18 Asia/Manila] PHP Fatal error:  Call to undefined function random_bytes() in /home/tugkaranuser/public_html/includes/forgot_password.inc.php on line 13
+[12-Feb-2019 19:53:18 Asia/Manila] PHP Fatal error:  Call to undefined function random_bytes() in /home/tugkaranuser/public_html/includes/forgot_password.inc.php on line 13

@@ -1,0 +1,52 @@
+[10-Feb-2019 22:14:02 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[10-Feb-2019 22:14:25 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[10-Feb-2019 22:14:55 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[10-Feb-2019 22:17:30 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[10-Feb-2019 22:18:01 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[12-Feb-2019 19:48:53 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:02:09 Asia/Manila] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:02:09 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:05:12 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:16:57 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:30:54 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:34:34 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:40:14 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:43:04 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:47:07 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[13-Feb-2019 11:02:46 Asia/Manila] PHP Parse error:  syntax error, unexpected '}' in /home/tugkaranuser/public_html/services.php on line 76
+[13-Feb-2019 11:12:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 50
+[13-Feb-2019 11:12:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 50
+[13-Feb-2019 11:12:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 50
+[13-Feb-2019 11:12:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 50
+[13-Feb-2019 11:18:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:18:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:18:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:18:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:19:04 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:19:04 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:19:04 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:19:04 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:20:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:20:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:20:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:20:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:22:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:22:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:22:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:22:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:23:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:23:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:23:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:23:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:26:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:26:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:26:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:26:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:39:03 Asia/Manila] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/tugkaranuser/public_html/services.php on line 48
+[13-Feb-2019 11:39:29 Asia/Manila] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/tugkaranuser/public_html/services.php on line 48
+[13-Feb-2019 11:49:57 Asia/Manila] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 14:07:16 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3

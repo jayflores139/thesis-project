@@ -1,0 +1,52 @@
+* {font-family: arial;padding:0; margin:0;box-sizing: border-box;}
+a {text-decoration: none;}
+button, input[type='submit'] {border:0;}
+button {padding: 8px 10px;background-color: #111;color:#fff}
+input[type='text'], 
+input[type='password'], 
+input[type='textarea'], 
+input[type='email'], 
+input[type='tel'], 
+input[type='number'] {padding: 8px 10px;width:100%;display: block;color:#555;}
+h1, h2, h3, h4, h5, h6 {font-weight:400;color:#555;}
+label {font-weight:400;color:#888;font-size:13px}
+
+.focus-border-green:focus {border: 1px solid #4caf50;outline:none;}
+.focus-border-red:focus {border: 1px solid #f44336;outline:none;}
+.focus-border-pink:focus {border: 1px solid #e91e63;outline:none;}
+.focus-border-blue:focus {border: 1px solid #2196f3;outline:none;}
+
+.bg-green { background-color: #4caf50;color: #fff; }
+.bg-red { background-color: #f44336;color: #fff;}
+.bg-blue { background-color: #2196f3;color: #fff;}
+.bg-pink { background-color: #e91e63;color: #fff;}
+.bg-black { background-color: #000;color: #fff;}
+.bg-white { background-color: #fff;color: #111;}
+
+.border {border:1px solid #ccc;}
+.border-green {border-color: #4caf50;}
+.border-pink {border-color: #e91e63;}
+.border-black {border-color: #111;}
+.border-white {border-color: #fff;}
+.border-dark-grey {border-color: #535a5d;}
+
+.txt-green {color: #4caf50;}
+.txt-black {color: #111;}
+.txt-white {color:#fff;}
+.txt-red {color:#f44336;}
+.txt-blue {color:#2196f3;}
+.txt-pink {color:#e91e63;}
+
+.round-2 {border-radius: 2px}.round-4 {border-radius: 4px}
+
+.center {margin:0 auto;}
+
+.text-center {text-align: center}
+.text-right {text-align: right;}
+.text-left {text-align: left;}
+.text-justify {text-align: justify;}
+
+.margin-top {margin-top: 10px;}
+.margin-bottom {margin-bottom: 10px;}
+.margin-left {margin-left: 10px;}
+.margin-right {margin-right: 10px;}

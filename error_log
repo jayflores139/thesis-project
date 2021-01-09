@@ -1,0 +1,137 @@
+[10-Feb-2019 22:14:02 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[10-Feb-2019 22:14:25 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[10-Feb-2019 22:14:55 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[10-Feb-2019 22:17:30 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[10-Feb-2019 22:18:01 Asia/Manila] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugkaranuser/public_html/includes/connect.php on line 7
+[12-Feb-2019 19:48:53 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:02:09 Asia/Manila] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:02:09 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:05:12 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:16:57 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:30:54 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:34:34 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:40:14 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:43:04 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[12-Feb-2019 20:47:07 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[13-Feb-2019 11:02:46 Asia/Manila] PHP Parse error:  syntax error, unexpected '}' in /home/tugkaranuser/public_html/services.php on line 76
+[13-Feb-2019 11:12:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 50
+[13-Feb-2019 11:12:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 50
+[13-Feb-2019 11:12:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 50
+[13-Feb-2019 11:12:21 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 50
+[13-Feb-2019 11:18:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:18:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:18:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:18:20 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:19:04 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:19:04 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:19:04 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:19:04 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:20:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:20:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:20:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:20:01 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:22:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:22:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:22:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:22:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:23:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:23:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:23:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:23:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:24:13 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:26:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:26:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:26:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:26:59 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 11:39:03 Asia/Manila] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/tugkaranuser/public_html/services.php on line 48
+[13-Feb-2019 11:39:29 Asia/Manila] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/tugkaranuser/public_html/services.php on line 48
+[13-Feb-2019 11:49:57 Asia/Manila] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/tugkaranuser/public_html/services.php on line 49
+[13-Feb-2019 14:07:16 Asia/Manila] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/tugkaranuser/public_html/create-password.php:1) in /home/tugkaranuser/public_html/create-password.php on line 3
+[21-Feb-2019 21:27:22 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/make-reservation2.php on line 164
+[21-Feb-2019 21:27:24 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/add_ons.php on line 47
+[21-Feb-2019 21:27:27 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/make-reservation2.php on line 164
+[21-Feb-2019 21:27:29 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/add_ons.php on line 47
+[21-Feb-2019 21:27:31 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/add_ons.php on line 47
+[21-Feb-2019 21:27:34 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/make-reservation2.php on line 164
+[21-Feb-2019 21:27:38 Asia/Manila] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tugkaranuser/public_html/make-reservation2.php on line 164
+[22-Feb-2019 16:46:27 Asia/Manila] PHP Parse error:  syntax error, unexpected '(' in /home/tugkaranuser/public_html/my_order.php on line 171
+[22-Feb-2019 16:46:31 Asia/Manila] PHP Parse error:  syntax error, unexpected '(' in /home/tugkaranuser/public_html/my_order.php on line 171
+[22-Feb-2019 16:46:35 Asia/Manila] PHP Parse error:  syntax error, unexpected '(' in /home/tugkaranuser/public_html/my_order.php on line 171
+[22-Feb-2019 16:46:39 Asia/Manila] PHP Parse error:  syntax error, unexpected '(' in /home/tugkaranuser/public_html/my_order.php on line 171
+[22-Feb-2019 16:46:46 Asia/Manila] PHP Parse error:  syntax error, unexpected '(' in /home/tugkaranuser/public_html/my_order.php on line 171
+[22-Feb-2019 16:47:10 Asia/Manila] PHP Parse error:  syntax error, unexpected '(' in /home/tugkaranuser/public_html/my_order.php on line 171
+[22-Feb-2019 16:47:24 Asia/Manila] PHP Parse error:  syntax error, unexpected '(' in /home/tugkaranuser/public_html/my_order.php on line 171
+[28-Feb-2019 23:43:49 Asia/Manila] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/tugkaranuser/public_html/menu.php on line 137
+[20-Apr-2019 00:22:30 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq1qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:25:53 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq1qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:26:38 Asia/Manila] PHP Warning:  mysqli_query(): (21000/1242): Subquery returns more than 1 row in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:26:39 Asia/Manila] PHP Warning:  mysqli_query(): (21000/1242): Subquery returns more than 1 row in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:26:40 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq66666666666666666666666666666666666666666666666666666666666' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:26:40 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq444444444444444444444444444444444444444444444444444444qbkxq' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:26:41 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq2qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:26:42 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqinformation_schemaqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:26:42 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqtugkaran_databaseqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:03 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq22qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:03 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqUSER_Fqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:04 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqaboutqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:04 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqadd_onsqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:04 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqbarangay_deliveryqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:05 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqcartqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:05 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqcategoryqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:05 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqcateringqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:06 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqcatering_detailsqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:06 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqcontactqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:06 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqcustom_rqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:07 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqdelivery_detailqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:07 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqdis_seniorqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:07 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqdownpaymentqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:08 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqfood_menuqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:08 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqfood_orderqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:08 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqfood_order_detailsqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:09 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqfood_order_details_2qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:09 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqfood_typeqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:09 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqpick_up_detailsqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:10 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqreservationqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:10 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqtbl_adminqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:10 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqusersqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:28 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq9qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:28 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqidqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:28 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqint(122)qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:29 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqpictureqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:29 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqvarchar(122)qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:29 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqNameqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:30 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqtextqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:30 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqcontactqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:30 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqvarchar(122)qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:31 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqusernameqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:31 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqvarchar(122)qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:31 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqpassswordqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:32 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqvarchar(122)qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:32 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqpositionqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:32 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqtextqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:33 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqdate_createdqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:33 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqdateqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:33 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqstatusqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:34 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqint(12)qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:27:49 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq1qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:29:10 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq$2y$10$K.TfNsA5s83v9ymMGOEiMeN0JNxmhBTv7mSIsM0XHrjKXcfqbkxq' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:29:10 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqq3Pel8.qbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[20-Apr-2019 00:29:11 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qbpqqadmin_usernameqbkxq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[24-Apr-2019 17:37:34 Asia/Manila] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/tugkaranuser/public_html/menu.php on line 137
+[15-May-2019 20:47:47 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq1qzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:01 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq1qzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:01 Asia/Manila] PHP Warning:  mysqli_query(): (21000/1242): Subquery returns more than 1 row in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:02 Asia/Manila] PHP Warning:  mysqli_query(): (21000/1242): Subquery returns more than 1 row in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:02 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq66666666666666666666666666666666666666666666666666666666666' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:03 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq444444444444444444444444444444444444444444444444444444qzvvq' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:03 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkqtugkaran_databaseqzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:04 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkqtugkaran_user@localhostqzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:07 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq1qzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:07 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq1qzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:08 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq0qzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:09 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq1qzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:09 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq0qzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
+[15-May-2019 20:48:16 Asia/Manila] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qkbkq0qzvvq1' for key '&lt;group_key&gt;' in /home/tugkaranuser/public_html/menu.php on line 126
